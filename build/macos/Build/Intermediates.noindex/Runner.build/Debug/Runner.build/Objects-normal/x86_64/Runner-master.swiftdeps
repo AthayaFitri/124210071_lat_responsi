@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "0ac697644f61db1ecb94b516ad79f8a2322fccb80f4451a84bbbac4eb8b21eb8"
+build_start_time: [1700555417, 391899108]
+build_end_time: [1700555502, 821316003]
+inputs:
+  "/Users/athayafitri/Developments/Apps/Mobile/Latihan_Responsi-main/macos/Flutter/GeneratedPluginRegistrant.swift": [1700555216, 424861431]
+  "/Users/athayafitri/Developments/Apps/Mobile/Latihan_Responsi-main/macos/Runner/AppDelegate.swift": [1700477189, 0]
+  "/Users/athayafitri/Developments/Apps/Mobile/Latihan_Responsi-main/macos/Runner/MainFlutterWindow.swift": [1700477189, 0]
